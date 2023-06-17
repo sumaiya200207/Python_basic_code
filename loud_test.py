@@ -1,3 +1,4 @@
 x = float(input("First: "))
 y = float(input("Second: "))
-print(x+y)
+s = str(x + y)
+print("Sum " +s)
